@@ -1,2 +1,2 @@
-# MagicPlast
-Distribucción de Plástico 
+# MagicPlast - Repositorio
+Distribucción de Plástico
